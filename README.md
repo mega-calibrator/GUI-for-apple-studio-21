@@ -4,7 +4,7 @@ A small python GUI wrapper for usbmonctl written specifically for Apple M4868
 
 ## Requirements
 
-linux, [usbmonctl](https://github.com/ondrej-zary/usbmonctl) 
+linux, [usbmonctl](https://github.com/ondrej-zary/usbmonctl), [Python](https://www.python.org/downloads/windows/)
 
 any M4868 version, blueberry or graphite flavors of the Apple studio display 21 inch
 
